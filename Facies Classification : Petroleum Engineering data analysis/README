@@ -1,0 +1,6 @@
+The data set consists of seven features (five wireline log measurements and two indicator variables) and a facies label at half-foot 
+depth intervals. In machine learning terminology, the set of measurements at each depth interval comprises a feature vector, each of 
+which is associated with a class (the facies type). We will use the pandas library to load the data into a dataframe, which provides a 
+convenient data structure to work with well-log data.
+
+Classified using 4 different models : Logistic regression, K-Nearest Neighbor, Support vector machine, Random forest and compared them.
