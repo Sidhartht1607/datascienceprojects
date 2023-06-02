@@ -1,0 +1,3 @@
+This is a project that is used to check if predicting IP and then EUR(using IP) or predicitng EUR and IP together is better when using Neural Networks MLP classifier.
+The Deployment File contains the deployed observations.
+The sklearn package is used.
